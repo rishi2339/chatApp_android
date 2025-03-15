@@ -1,4 +1,4 @@
-package com.chat.androidApp.ui.theme
+package com.chat.androidApp.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
